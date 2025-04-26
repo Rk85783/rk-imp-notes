@@ -8,5 +8,21 @@ External CSS
 TouchableOpacity, Pressable
 - ![image](https://github.com/user-attachments/assets/c155e6a1-f279-4ea4-b8bb-713c6bc7cc2a)
 
-Image, Image height and width
+Image from assets, height and width
 - ![image](https://github.com/user-attachments/assets/992ee81c-4e5a-4596-b726-8182020d9120)
+
+Image from url, height, width, resizeMode
+![image](https://github.com/user-attachments/assets/cffa916b-808d-4c3e-96c0-b489e207fdf2)
+
+Routing
+- ![image](https://github.com/user-attachments/assets/6452927c-749f-49a0-af8a-45608de35efa)
+- ![image](https://github.com/user-attachments/assets/77c7049b-dcb0-486f-9c6c-f7ee077713dc)
+- ![image](https://github.com/user-attachments/assets/b2cc1b89-edcb-42ca-9f15-567e43b5623f)
+- ![image](https://github.com/user-attachments/assets/bfc059c6-77f1-41da-b0af-0996c5c2c8fe)
+- ![image](https://github.com/user-attachments/assets/e7aa466b-f7d9-498f-82f3-99bc5acf821b)
+- ![image](https://github.com/user-attachments/assets/dec225d8-abce-434c-b76c-a87dcad09db9)
+
+
+
+
+
